@@ -1,35 +1,35 @@
 <resources>
     <string name="ok">Gerai</string>
-    <string name="cancel">Atðaukti</string>
-    <string name="search">Ieðkoti</string>
-    <string name="save_as">Iðsaugoti kaip</string>
-    <string name="file_saved">Failas iðsaugotas sëkmingai</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="search">Ieškoti</string>
+    <string name="save_as">Išsaugoti kaip</string>
+    <string name="file_saved">Failas išsaugotas sėkmingai</string>
     <string name="invalid_file_format">Neteisingas failo formatas</string>
-    <string name="out_of_memory_error">Klaida: trûksta atminties</string>
+    <string name="out_of_memory_error">Klaida: trūksta atminties</string>
     <string name="an_error_occurred">Klaida: %s</string>
-    <string name="open_with">Open with</string>
-    <string name="no_app_found">No valid app found</string>
-    <string name="set_as">Set as</string>
+    <string name="open_with">Atidaryti naudojant</string>
+    <string name="no_app_found">Nerasta reikiamos programos</string>
+    <string name="set_as">Nustatyti</string>
 
     <!-- Permissions -->
-    <string name="no_storage_permissions">Storage permission is required</string>
-    <string name="no_contacts_permission">Contacts permission is required</string>
-    <string name="no_camera_permissions">Camera permission is required</string>
-    <string name="no_audio_permissions">Audio permission is required</string>
+    <string name="no_storage_permissions">Reikalinga talpyklos prieiga</string>
+    <string name="no_contacts_permission">Reikalinga adresatų prieiga</string>
+    <string name="no_camera_permissions">Reikalinga kameros prieiga</string>
+    <string name="no_audio_permissions">Reikalinga garso įrašo prieiga</string>
 
     <!-- Renaming -->
-    <string name="rename_file">Pervadinti failà</string>
-    <string name="rename_folder">Pervadinti aplankà</string>
-    <string name="rename_file_error">Failas negali bûti pervadntas</string>
-    <string name="rename_folder_error">Aplankas negali bûti pervadintas</string>
-    <string name="rename_folder_empty">Aplanko pavadinimas negali bûti paliktas tuðèias</string>
-    <string name="rename_folder_exists">Aplankas ðiuo vardu jau egzistuoja</string>
+    <string name="rename_file">Pervadinti failą</string>
+    <string name="rename_folder">Pervadinti aplanką</string>
+    <string name="rename_file_error">Failas negali būti pervadntas</string>
+    <string name="rename_folder_error">Aplankas negali būti pervadintas</string>
+    <string name="rename_folder_empty">Aplanko pavadinimas negali būti paliktas tuščias</string>
+    <string name="rename_folder_exists">Aplankas šiuo pavadinimu jau egzistuoja</string>
     <string name="rename_folder_root">Negalima pervadinti pagrindinio talpyklos aplanko</string>
-    <string name="rename_folder_ok">Aplankas pervadintas sëkmingai</string>
+    <string name="rename_folder_ok">Aplankas pervadintas sėkmingai</string>
     <string name="renaming_folder">Aplankas pervadinamas</string>
-    <string name="filename_cannot_be_empty">Failo pavadinimas negali bûti paliktas tusèias</string>
-    <string name="filename_invalid_characters">Failo varde yra negalimø simboliø</string>
-    <string name="extension_cannot_be_empty">Papildinys negali bûti paliktas tuðèias</string>
+    <string name="filename_cannot_be_empty">Failo pavadinimas negali būti paliktas tuščias</string>
+    <string name="filename_invalid_characters">Failo varde yra negalimų simbolių</string>
+    <string name="extension_cannot_be_empty">Papildinys negali bûti paliktas tuščias</string>
 
     <!-- Copy / Move -->
     <string name="copy">Kopijuoti</string>
