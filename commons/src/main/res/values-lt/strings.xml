@@ -2,37 +2,37 @@
     <string name="ok">Gerai</string>
     <string name="cancel">Atšaukti</string>
     <string name="save_as">Išsaugoti kaip</string>
-    <string name="file_saved">Byla išsaugota sėkmingai</string>
-    <string name="invalid_file_format">Neteisingas bylos formatas</string>
-    <string name="out_of_memory_error">Klaida: trūksta atminties</string>
+    <string name="file_saved">Failas išsaugotas sėkmingai</string>
+    <string name="invalid_file_format">Neteisingas failo formatas</string>
+    <string name="out_of_memory_error">Klaida: nepakanka atminties</string>
     <string name="an_error_occurred">Klaida: %s</string>
-    <string name="open_with">Atidaryti su</string>
-    <string name="edit_with">Redaguoti su</string>
-    <string name="no_app_found">Nerasta tinkamos programėlės</string>
+    <string name="open_with">Atidaryti naudojant</string>
+    <string name="edit_with">Redaguoti naudojant</string>
+    <string name="no_app_found">Nerasta reikiamos programėlės</string>
     <string name="set_as">Nustatyti kaip</string>
-    <string name="value_copied_to_clipboard">Reikšmė nukopijuota į iškarpinė</string>
+    <string name="value_copied_to_clipboard">Reikšmė nukopijuota į iškarpinę</string>
     <string name="unknown">Nežinoma</string>
     <string name="always">Visada</string>
     <string name="never">Niekada</string>
     <string name="details">Detalės</string>
     <string name="notes">Užrašai</string>
-    <string name="deleting_folder">Deleting folder \'%s\'</string>
-    <string name="none">None</string>
-    <string name="label">Label</string>
-    <string name="transparent">Transparent</string>
-    <string name="transparent_color">Transparent color</string>
-    <string name="select_a_different_color">Select a different color</string>
-    <string name="download">Download</string>
+    <string name="deleting_folder">Ištrinamas aplankas \'%s\'</string>
+    <string name="none">Nėra</string>
+    <string name="label">Etiketė</string>
+    <string name="transparent">Permatomumas</string>
+    <string name="transparent_color">Permatoma spalva</string>
+    <string name="select_a_different_color">Pasirinkti kitą spalvą</string>
+    <string name="download">Atsisiųsti</string>
 
     <!-- Favorites -->
-    <string name="favorites">Mėgiamiausieji</string>
-    <string name="add_favorites">Pridėti mėgiamiausiuosius</string>
-    <string name="add_to_favorites">pridėti į mėgiamiausiuosius</string>
-    <string name="remove_from_favorites">Pašalinti iš mėgiamiausiųjų</string>
+    <string name="favorites">Mėgstami</string>
+    <string name="add_favorites">Pridėti mėgstamus</string>
+    <string name="add_to_favorites">Pridėti į mėgstamus</string>
+    <string name="remove_from_favorites">Pašalinti iš mėgstamų</string>
 
     <!-- Search -->
     <string name="search">Ieškoti</string>
-    <string name="type_2_characters">Įvesti mažiausiai 2 simbolius, kad pradėti paiešką.</string>
+    <string name="type_2_characters">Paieškai pradėti įveskite bent 2 simbolius.</string>
 
     <!-- Filters -->
     <string name="filter">Filtras</string>
@@ -46,22 +46,22 @@
     <string name="no_audio_permissions">Reikalingas garso leidimas</string>
 
     <!-- Renaming -->
-    <string name="rename_file">Pervadinti bylą</string>
+    <string name="rename_file">Pervadinti failą</string>
     <string name="rename_folder">Pervadinti aplanką</string>
-    <string name="rename_file_error">Byla negali būti pervadnta</string>
+    <string name="rename_file_error">Failas negali būti pervadintas</string>
     <string name="rename_folder_error">Aplankas negali būti pervadintas</string>
     <string name="rename_folder_empty">Aplanko pavadinimas negali būti paliktas tuščias</string>
-    <string name="rename_folder_exists">Aplankas šiuo vardu jau yra</string>
+    <string name="rename_folder_exists">Aplankas šiuo pavadinimu jau yra</string>
     <string name="rename_folder_root">Negalima pervadinti pagrindinio talpyklos aplanko</string>
     <string name="rename_folder_ok">Aplankas pervadintas sėkmingai</string>
     <string name="renaming_folder">Aplankas pervadinamas</string>
-    <string name="filename_cannot_be_empty">Bylos pavadinimas negali būti paliktas tusčias</string>
-    <string name="filename_invalid_characters">Bylos pavadinime yra negalimų simbolių</string>
-    <string name="filename_invalid_characters_placeholder">Bylos pavadinimas \'%s\' susideda iš negalimų simbolių</string>
-    <string name="extension_cannot_be_empty">Papildinys negali būti paliktas tuščias</string>
-    <string name="source_file_doesnt_exist">Šaltinio byla %s neegzistuoja</string>
-    <string name="prepend_filenames">Prepend filenames</string>
-    <string name="append_filenames">Append filenames (before file extension)</string>
+    <string name="filename_cannot_be_empty">Failo pavadinimas negali būti paliktas tusčias</string>
+    <string name="filename_invalid_characters">Failo pavadinime yra negalimų simbolių</string>
+    <string name="filename_invalid_characters_placeholder">Failo pavadinimas \'%s\' susideda iš negalimų simbolių</string>
+    <string name="extension_cannot_be_empty">Trumpinys negali būti paliktas tuščias</string>
+    <string name="source_file_doesnt_exist">Pagrindinis failas %s neegzistuoja</string>
+    <string name="prepend_filenames">Panaikinti failo pavadinimus</string>
+    <string name="append_filenames">Pridėti failo pavadinimus (prieš failo trumpinį)</string>
 
     <!-- Copy / Move -->
     <string name="copy">Kopijuoti</string>
@@ -125,13 +125,13 @@
 
     <!-- Are you sure you want to delete 5 items? -->
     <plurals name="delete_items">
-        <item quantity="one">%d item</item>
-        <item quantity="other">%d items</item>
+        <item quantity="one">%d failą</item>
+        <item quantity="other">%d failus</item>
     </plurals>
 
     <plurals name="deleting_items">
-        <item quantity="one">Deleting %d item</item>
-        <item quantity="other">Deleting %d items</item>
+        <item quantity="one">Ištrinama %d failas</item>
+        <item quantity="other">Ištrinama %d failai</item>
     </plurals>
 
     <!-- Storages -->
@@ -270,8 +270,8 @@
     <string name="fingerprint_setup_successfully">Apsauga nustatyta sėkmingai. Prašome įdiegti programėlę iš naujo jei bus problemų su apsaugos nustatymu iš naujo.</string>
 
     <!-- Times -->
-    <string name="yesterday">Yesterday</string>
-    <string name="today">Today</string>
+    <string name="yesterday">Vakar</string>
+    <string name="today">Šiandien</string>
     <string name="tomorrow">Rytoj</string>
     <string name="seconds_raw">sekundės</string>
     <string name="minutes_raw">minutės</string>
@@ -383,16 +383,16 @@
     <string name="dismiss">Nutraukti</string>
     <string name="no_reminder">Nėra priminimo</string>
     <string name="at_start">Paleidžiant</string>
-    <string name="system_sounds">System sounds</string>
-    <string name="your_sounds">Your sounds</string>
-    <string name="add_new_sound">Add a new sound</string>
-    <string name="no_sound">No sound</string>
+    <string name="system_sounds">Sistemos signalai</string>
+    <string name="your_sounds">Pasirinktini signalai</string>
+    <string name="add_new_sound">Pridėti naują signalą</string>
+    <string name="no_sound">Be garso</string>
 
     <!-- Settings -->
     <string name="settings">Nustatymai</string>
-    <string name="purchase_simple_thank_you">Purchase Simple Thank You</string>
+    <string name="purchase_simple_thank_you">Įsigyti Simple Ačiū</string>
     <string name="customize_colors">Spalvų redagavimas</string>
-    <string name="customize_widget_colors">Customize widget colors</string>
+    <string name="customize_widget_colors">Redaguoti valdiklio spalvas</string>
     <string name="use_english_language">Naudoti anglų kalbą</string>
     <string name="show_hidden_items">Rodyti paslėptus elementus</string>
     <string name="font_size">Teksto dydis</string>
